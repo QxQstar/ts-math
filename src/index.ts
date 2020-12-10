@@ -26,7 +26,7 @@ export function divide(a: number, b: number): number {
 }
 
 /**
- * 乘以
+ * 乘
  * @param a 
  * @param b 
  */
