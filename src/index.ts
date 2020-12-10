@@ -25,6 +25,11 @@ export function divide(a: number, b: number): number {
     return a / b;
 }
 
+/**
+ * 乘以
+ * @param a 
+ * @param b 
+ */
 export function multiply(a: number, b: number): number {
     return a * b;
 }
